@@ -1,0 +1,26 @@
+/* Tùy chỉnh chung cho giao diện quản lý */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+}
+
+h3 {
+    font-weight: 700;
+}
+
+/* Tùy chỉnh bảng dữ liệu */
+.table th, .table td {
+    vertical-align: middle;
+}
+
+/* Hiệu ứng bóng mờ cho card */
+.card {
+    border: none;
+    border-radius: 8px;
+}
+
+/* Tùy chỉnh nút bấm */
+.btn-sm {
+    padding: 4px 12px;
+    font-size: 14px;
+}
